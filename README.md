@@ -1,6 +1,6 @@
-### Simple video-conferencing using Agora.io
+## Simple video-conferencing using Agora.io
 
-## Installation instructions
+### Installation instructions
 - clone repo 
 - Create an account on agora.io and get APP ID, Temp Token and Channel Name. Detailed instructions are here: https://docs.agora.io/en/voice-calling/reference/manage-agora-account?platform=android
 - Update your own APP ID, Temp Token and Channel Name in script.js
