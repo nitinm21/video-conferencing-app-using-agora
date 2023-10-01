@@ -1,4 +1,3 @@
-# video-conferencing-app-using-agora
 ### Simple video-conferencing using Agora.io
 
 ## Installation instructions
